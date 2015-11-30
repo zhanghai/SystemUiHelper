@@ -38,7 +38,7 @@
           ~ Use fitsSystemWindows here to extend appbar background behind status bar, which can
           ~ avoid the visual glitch of showing a gap above appbar.
           -->
-        <FrameLayout
+        <me.zhanghai.android.systemuihelper.sample.IgnoreBottomInsetFrameLayout
             android:id="@+id/appbar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -54,7 +54,7 @@
                 android:paddingRight="@dimen/screen_edge_horizontal_margin"
                 app:popupTheme="?actionBarPopupTheme"
                 app:titleMarginStart="0dp" />
-        </FrameLayout>
+        </me.zhanghai.android.systemuihelper.sample.IgnoreBottomInsetFrameLayout>
 
         <!-- For elevation backward compatibility. -->
         <View
