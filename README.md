@@ -18,6 +18,8 @@ This library has already included [a fix for delayed system UI visibility change
 
 What's more, a sample application is given on how to use the `SystemUiHelper` with `Toolbar` from `appcompat-v7`.
 
+![Sample application](screenshot/sample.gif)
+
 [Sample APK](//github.com/DreaminginCodeZH/CustomTabsHelper/releases/download/v1.0.0/sample-release.apk)
 
 ## Integration
