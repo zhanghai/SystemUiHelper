@@ -19,4 +19,8 @@
         <item name="colorPrimaryDark">@color/color_primary_dark</item>
         <item name="colorAccent">@color/color_accent</item>
     </style>
+
+    <style name="AppTheme.ColdStart">
+        <item name="android:windowBackground">@drawable/window_background_cold_start</item>
+    </style>
 </resources>
