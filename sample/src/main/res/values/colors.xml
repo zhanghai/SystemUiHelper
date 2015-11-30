@@ -6,7 +6,15 @@
   -->
 
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+
+    <color name="indigo_500">#3f51b5</color>
+    <color name="indigo_700">#303f9f</color>
+    <color name="pink_a200">#ff4081</color>
+    <color name="grey_50">#fafafa</color>
+
+    <color name="window_background_light">@color/grey_50</color>
+
+    <color name="color_primary">@color/indigo_500</color>
+    <color name="color_primary_dark">@color/indigo_700</color>
+    <color name="color_accent">@color/pink_a200</color>
 </resources>
