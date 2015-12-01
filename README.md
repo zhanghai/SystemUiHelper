@@ -2,9 +2,9 @@
 
 Helper for dealing with Android System UI visibility. Authored by Roman Nurik and Chris Banes.
 
-[Original Blog post](https://chris.banes.me/2014/08/29/systemuihelper/)
+Original Blog post: [SystemUiHelper · Chris Banes](https://chris.banes.me/2014/08/29/systemuihelper/)
 
-[Original Gist](https://gist.github.com/chrisbanes/73de18faffca571f7292)
+Original Gist: [chrisbanes/SystemUiHelper](https://gist.github.com/chrisbanes/73de18faffca571f7292)
 
 ## Why SystemUiHelper?
 
