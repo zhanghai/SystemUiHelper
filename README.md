@@ -14,7 +14,7 @@ Android has introduced a lot of different API for controlling system UI visibili
 
 Although there have been [some other projects](https://github.com/search?utf8=%E2%9C%93&q=SystemUiHelper) available, I created this library because this way I can always try to track the latest upstream changes. Third-party fixes are also welcomed to be incorporated.
 
-This library has already included [a fix for delayed system UI visibility change](library/src/main/java/me/zhanghai/android/systemuihelper/SystemUiHelperImplHC.java) from myself.
+This library has already included [a fix for delayed system UI visibility change](https://gist.github.com/chrisbanes/73de18faffca571f7292#gistcomment-1633712) from myself.
 
 What's more, a sample application is given on how to use the `SystemUiHelper` with `Toolbar` from `appcompat-v7`.
 
