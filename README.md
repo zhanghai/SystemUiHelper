@@ -20,7 +20,7 @@ What's more, a sample application is given on how to use the `SystemUiHelper` wi
 
 ![Sample application](screenshot/sample.gif)
 
-[Sample APK](//github.com/DreaminginCodeZH/SystemUiHelper/releases/download/v1.0.0/sample-release.apk)
+[Sample APK](//github.com/zhanghai/SystemUiHelper/releases/download/v1.0.0/sample-release.apk)
 
 ## Integration
 
